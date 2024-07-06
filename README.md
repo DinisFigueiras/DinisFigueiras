@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter, Next.Js**
 
-- 👨‍💻 All of my projects are available at [https://dinisfigueiras.netlify.app/](https://dinisfigueiras.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.dinisfigueiras.com/](https://www.dinisfigueiras.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
