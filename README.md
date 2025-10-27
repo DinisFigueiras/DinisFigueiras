@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dinis Figueiras</h1>
 <h3 align="center">A passionate software developer from Portugal</h3>
-<img align="right" alt="coding" width="400" 
+<img align="right" alt="coding" width="400" />
 - 🔭 I’m currently working on **Expense Tracker**
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [https://www.dinisfigueiras.com/](https://www.dinisfigueiras.com/)
+- 👨‍💻 All of my projects are available at [https://www.dinisfigueiras.pt/](https://www.dinisfigueiras.pt/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
