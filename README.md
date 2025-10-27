@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Expense Tracker**
 
-- 🌱 I’m currently learning **Flutter, Next.Js**
+- 🌱 I’m currently learning **Next.Js**
 
 - 👨‍💻 All of my projects are available at [https://www.dinisfigueiras.com/](https://www.dinisfigueiras.com/)
 
