@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinis Figueiras</h1>
 <h3 align="center">A passionate software developer from Portugal</h3>
-<img align="right" alt="coding" width="400" />
 - 🔭 I’m currently working on **Expense Tracker**
 
 - 🌱 I’m currently learning **Next.Js**
